@@ -1,10 +1,6 @@
-学习Web API涉及多个方面，包括基本概念、协议、工具以及实际开发中的一些常见模式和最佳实践。以下是一个详细的学习文档大纲，可以帮助你系统性地学习Web API开发。
+# Web API 学习文档
 
----
-
-## Web API 学习文档
-
-### 1. **Web API概述**
+## 1. **Web API概述**
    - **什么是API（Application Programming Interface）？**
      - API的定义及其重要性
      - API与Web API的区别
@@ -16,7 +12,7 @@
      - SOAP（Simple Object Access Protocol）
      - GraphQL
 
-### 2. **RESTful API基础**
+## 2. **RESTful API基础**
    - **什么是REST架构？**
      - REST的六大约束条件
        - 客户端-服务器
@@ -36,6 +32,7 @@
      - 使用HTTP动词来定义操作
      - 状态码的合理使用
 
-### 3. **SOAP与GraphQL API简介**
+## 3. **SOAP与GraphQL API简介**
    - **SOAP（Simple Object Access Protocol）**
-   - 
+   - SOAP是一种协议，主要用于企业级应用程序的集成。它依赖XML进行消息传递，并且通常与WSDL（Web Services Description Language）一起使用，定义服务的接口。
+   -  ****
