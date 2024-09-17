@@ -35,4 +35,7 @@
 ## 3. **SOAP与GraphQL API简介**
    - **SOAP（Simple Object Access Protocol）**
    - SOAP是一种协议，主要用于企业级应用程序的集成。它依赖XML进行消息传递，并且通常与WSDL（Web Services Description Language）一起使用，定义服务的接口。
-   -  ****
+   - SOAP具有严格的消息格式和强大的安全性，但相对于REST而言比较复杂。
+
+GraphQL基础
+GraphQL是一种查询语言，可以精确请求所需的数据，避免过度获取或不足获取数据的问题。它允许客户端定义查询结构，与REST API不同，GraphQL只有一个端点，所有查询通过这个端点进行。
